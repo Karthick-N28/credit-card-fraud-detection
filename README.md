@@ -84,7 +84,9 @@ This prevents the test set from being artificially modified and provides a more 
 
 Because the dataset is highly imbalanced, accuracy alone is not sufficient to evaluate the fraud detection system. Precision, Recall, F1 Score and PR-AUC provide additional information about minority-class performance.
 
-## 🌐 Streamlit Application
+## 🌐 Streamlit Application 
+
+![Streamlit Application](streamlit-demo.png)
 
 The project includes an interactive Streamlit application.
 
