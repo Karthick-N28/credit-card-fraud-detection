@@ -119,7 +119,7 @@ credit-card-fraud-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-card-fraud-detection.git
+git clone https://github.com/Karthick-N28/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
